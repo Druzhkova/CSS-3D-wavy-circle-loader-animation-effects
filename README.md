@@ -1,1 +1,1 @@
-# Remake_CSS_3D_Wavy_Circle_Loader_Animation_Effects
+# CSS 3D Wavy Circle Loader Animation Effects
