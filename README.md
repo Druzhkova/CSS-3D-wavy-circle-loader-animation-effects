@@ -1,3 +1,3 @@
-# CSS 3D Wavy Circle Loader Animation Effects
+# CSS 3D wavy circle loader animation effects
 
-<a href="https://viktoriya-druzhkova.github.io/CSS_3D_Wavy_Circle_Loader_Animation_Effects/">Watch here - 3D Wavy Circle Loader Animation Effects</a>
+<a href="https://druzhkova.github.io/CSS-3D-wavy-circle-loader-animation-effects/">Watch here</a>
